@@ -13,3 +13,8 @@ console.log(add(10, 20)); // 30;
 
 let square = num => num ** num;
 console.log(square(3, 6));
+
+
+
+
+ 
